@@ -59,3 +59,8 @@ On the first run of Tether, node.js will be compiled. This will take a few minut
     sudo apt-get install net-tools
     sudo linux/run.sh
     
+    
+  #### If you faced with this ERR [Segmentation Fault], YOU CAN USE THE COMPILED VERSION OF THE CODE, you should extract it in your favorate directory and run the [run.sh] file in the Linux folder.
+  
+  ### Enjoy your Tethering, Good Luck
+  ### -ST
